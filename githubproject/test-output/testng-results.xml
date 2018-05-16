@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="9007" started-at="2018-05-16T21:52:35Z" finished-at="2018-05-16T21:52:44Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="9007" started-at="2018-05-16T21:52:35Z" finished-at="2018-05-16T21:52:44Z">
+      <class name="com.github.githubtest">
+        <test-method status="PASS" signature="launchscript()[pri:0, instance:com.github.githubtest@2d8f65a4]" name="launchscript" is-config="true" duration-ms="3797" started-at="2018-05-16T21:52:35Z" finished-at="2018-05-16T21:52:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchscript -->
+        <test-method status="PASS" signature="verifytitle()[pri:1, instance:com.github.githubtest@2d8f65a4]" name="verifytitle" duration-ms="366" started-at="2018-05-16T21:52:39Z" finished-at="2018-05-16T21:52:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifytitle -->
+        <test-method status="PASS" signature="checkingsubject()[pri:2, instance:com.github.githubtest@2d8f65a4]" name="checkingsubject" duration-ms="4677" started-at="2018-05-16T21:52:39Z" finished-at="2018-05-16T21:52:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkingsubject -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.github.githubtest@2d8f65a4]" name="teardown" is-config="true" duration-ms="125" started-at="2018-05-16T21:52:44Z" finished-at="2018-05-16T21:52:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.github.githubtest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
